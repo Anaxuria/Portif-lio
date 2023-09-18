@@ -131,6 +131,10 @@ header nav a:hover{
     text-decoration: none;
 }
 
+#banner .title .contatos a:hover {
+    background: #ffff3d;
+}
+
 #banner img {
     width: 300px;
     border-radius: 9999px;
